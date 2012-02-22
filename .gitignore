@@ -1,0 +1,29 @@
+.DS_Store
+._*
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# Generated files
+*.o
+*.pyc
+
+# Backup files
+*~.nib
+
+*.swp
+*~.nib
+
+build/
+!build/.gitkeep
+
+*.perspective
+*.perspectivev3
+
+*.app
