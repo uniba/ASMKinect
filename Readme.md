@@ -11,7 +11,7 @@
 
 ## Dependency
 
-* ofxKinect (058ec96346)
+* ofxKinect ([058ec96346](https://github.com/ofTheo/ofxKinect/tree/058ec96346ea401f943d68f77d6e4127b13af3db))
 
 ## License
 
