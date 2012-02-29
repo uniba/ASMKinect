@@ -81,6 +81,8 @@ public:
     ofPopMatrix();
     
     cam.end();
+    
+    ofDrawBitmapString(ofToString(ofGetFrameRate()), 20, 20);
   };
   
   void exit() {
